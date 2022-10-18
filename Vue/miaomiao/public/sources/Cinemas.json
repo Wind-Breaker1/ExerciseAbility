@@ -1,0 +1,819 @@
+{
+    "success": true,
+    "cinemas": {
+        "cinemas": [
+            {
+                "id": 36776,
+                "mark": 0,
+                "nm": "积分影城（光谷融众国际店）",
+                "sellPrice": "13",
+                "addr": "洪山区珞瑜路889号融众国际6楼积分影城",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 25848,
+                "mark": 0,
+                "nm": "唐阁影城（黄陂店）",
+                "sellPrice": "13",
+                "addr": "黄陂区百锦40号隆汇国贸中心四层",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单最高立减30元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 35839,
+                "mark": 0,
+                "nm": "大地院线万汇巨幕影城",
+                "sellPrice": "13",
+                "addr": "江夏区纸坊街道江夏大道14号",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 25395,
+                "mark": 0,
+                "nm": "华夏影城江夏店（杜比全景声巨幕）",
+                "sellPrice": "13.9",
+                "addr": "江夏区纸坊街道谭鑫路17号万豪世纪天街商业广场3楼1号",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "4K厅",
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减3元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 24120,
+                "mark": 0,
+                "nm": "新港国际影城",
+                "sellPrice": "13.9",
+                "addr": "蔡甸区武汉经济技术开发区博学路6号商业楼D栋3楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 12916,
+                "mark": 0,
+                "nm": "幸福蓝海影城（武汉雄楚店）",
+                "sellPrice": "14.5",
+                "addr": "洪山区雄楚大道888号金地雄楚一号商一栋4楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 6969,
+                "mark": 0,
+                "nm": "金逸影城（吴家山北冰洋店）",
+                "sellPrice": "15",
+                "addr": "东西湖区吴家山街道四明路106号服投广场4层",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "DTS:X 临境音厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "DTS:X 临境音厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 6247,
+                "mark": 0,
+                "nm": "大地影院（武汉江夏宜佳店）",
+                "sellPrice": "15",
+                "addr": "江夏区兴新街136号宜佳广场四楼东侧（近中心百货）",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 17082,
+                "mark": 0,
+                "nm": "恒大嘉凯影城恒大城店",
+                "sellPrice": "15",
+                "addr": "东西湖区环湖路43号恒大城影城1号楼三、四层",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "CGS中国巨幕厅",
+                        "杜比全景声厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "CGS中国巨幕厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 16292,
+                "mark": 0,
+                "nm": "金逸影城（江夏店）",
+                "sellPrice": "15.9",
+                "addr": "江夏区江夏大道与北华街交汇处九全嘉购物广场4楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "DTS:X 临境音厅",
+                        "60帧厅",
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "DTS:X 临境音厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "60帧厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 17024,
+                "mark": 0,
+                "nm": "银兴国际影城（光谷时尚城店）",
+                "sellPrice": "16.8",
+                "addr": "洪山区南湖大道南湖时尚城K4B四楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "4K厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 0,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，9.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 25724,
+                "mark": 0,
+                "nm": "自由人影城（武汉金地广场店）",
+                "sellPrice": "19.9",
+                "addr": "洪山区团结大道金地广场购物中心3-5层",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "4K厅",
+                        "4D厅",
+                        "巨幕厅",
+                        "MX4D厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4K厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4D厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "MX4D厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 892,
+                "mark": 0,
+                "nm": "武商摩尔影城（国广IMAX激光店）",
+                "sellPrice": "19.9",
+                "addr": "江汉区解放大道690号武汉国际广场C座7楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "IMAX厅",
+                        "4DX厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "IMAX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4DX厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 894,
+                "mark": 0,
+                "nm": "万达影城（经开万达广场IMAX店）",
+                "sellPrice": "19.9",
+                "addr": "蔡甸区东风大道111号经开万达广场3楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "IMAX厅",
+                        "RealD 6FL厅",
+                        "4D厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "IMAX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "RealD 6FL厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4D厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，29.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 10880,
+                "mark": 0,
+                "nm": "悦影绘高德影城（武汉中百店）",
+                "sellPrice": "19.9",
+                "addr": "江夏区文华路37号中百广场6楼",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [],
+                    "hallTypeVOList": [],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 896,
+                "mark": 0,
+                "nm": "万达影城（春树里广场店）",
+                "sellPrice": "19.9",
+                "addr": "武昌区中北路166号岳家嘴东湖春树里购物中心四层（居然之家楼上）",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "RealD 6FL厅",
+                        "儿童厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "RealD 6FL厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "儿童厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，29.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 897,
+                "mark": 0,
+                "nm": "华谊兄弟影院（黄陂店）",
+                "sellPrice": "19.9",
+                "addr": "黄陂区黄陂大道387号黄陂广场C座",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 11404,
+                "mark": 0,
+                "nm": "万达影城（东西湖中心广场XLAND店）",
+                "sellPrice": "19.9",
+                "addr": "东西湖区吴家山街中心广场四层（五环大道工商银行）",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "RealD 6FL厅",
+                        "儿童厅",
+                        "4D厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "RealD 6FL厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "儿童厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4D厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，29.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 913,
+                "mark": 0,
+                "nm": "汉阳天河电影城（王家湾店）",
+                "sellPrice": "19.9",
+                "addr": "汉阳区汉阳大道687号汉商21购物娱乐中心3楼",
+                "tag": {
+                    "allowRefund": 1,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "DTS:X 临境音厅",
+                        "巨幕厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "DTS:X 临境音厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "巨幕厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": ""
+                },
+                "promotion": {
+                    "cardPromotionTag": "",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            },
+            {
+                "id": 917,
+                "mark": 0,
+                "nm": "万达影城（江汉路悦荟广场杜比影院店）",
+                "sellPrice": "19.9",
+                "addr": "江汉区江汉路交通路1号万达广场C座2层（悦荟广场）",
+                "tag": {
+                    "allowRefund": 0,
+                    "buyout": 0,
+                    "cityCardTag": 0,
+                    "deal": 0,
+                    "endorse": 1,
+                    "giftTag": "",
+                    "hallType": [
+                        "杜比全景声厅",
+                        "Dolby Cinema厅",
+                        "RealD 6FL厅",
+                        "4DX厅",
+                        "儿童厅"
+                    ],
+                    "hallTypeVOList": [
+                        {
+                            "name": "杜比全景声厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "Dolby Cinema厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "RealD 6FL厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "4DX厅",
+                            "url": ""
+                        },
+                        {
+                            "name": "儿童厅",
+                            "url": ""
+                        }
+                    ],
+                    "sell": 1,
+                    "snack": 1,
+                    "vipTag": "折扣卡"
+                },
+                "promotion": {
+                    "cardPromotionTag": "开卡特惠，29.9元起开卡",
+                    "couponPromotionTag": "",
+                    "merchantActivityTag": "",
+                    "packShowActivityTag": "",
+                    "platformActivityTag": "",
+                    "starActivityTag": ""
+                },
+                "showTimes": ""
+            }
+        ]
+    }
+}

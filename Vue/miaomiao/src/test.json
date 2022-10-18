@@ -1,0 +1,133 @@
+{
+    "success": true,
+    "movies": {
+        "list": [
+            {
+                "act": "陶涛 张琪",
+                "cat": "纪录片",
+                "dir": "陶涛,张琪,秦博,范士广",
+                "dur": 92,
+                "enm": "Once Upon A Life",
+                "fra": "上海国际电影节",
+                "frt": "2021-06-14",
+                "ftime": "",
+                "globalReleased": false,
+                "id": 1429716,
+                "img": "https://p0.pipi.cn/mmdb/d2dad52f71f51b80771789ffba2890b78caa3.jpg?imageMogr2/thumbnail/2500x2500%3E",
+                "movieAlias": "",
+                "movieType": 0,
+                "nm": "人间世",
+                "onlinePlay": false,
+                "pubDesc": "2022-03-04中国大陆上映",
+                "rt": "2022-03-04",
+                "sc": 0,
+                "show": "",
+                "showst": 1,
+                "src": "中国大陆",
+                "type": 0,
+                "ver": "2D",
+                "vodPlay": false,
+                "wish": 76,
+                "wishst": 0,
+                "version": ""
+            },
+            {
+                "act": "任钊萱 | 贾冰 左小青 苗圃",
+                "cat": "剧情,喜剧,家庭",
+                "dir": "任钊萱",
+                "dur": 110,
+                "enm": "My Dad is An Alien",
+                "globalReleased": false,
+                "id": 1386676,
+                "img": "https://p0.pipi.cn/mmdb/d2dad5927a387a16bde19b2fcab0c9d245d61.jpg?imageMogr2/thumbnail/2500x2500%3E",
+                "movieAlias": "",
+                "movieType": 0,
+                "nm": "爸爸是外星人",
+                "onlinePlay": false,
+                "pubDesc": "2022-07中国大陆上映",
+                "rt": "2022-07",
+                "sc": 0,
+                "show": "",
+                "showst": 1,
+                "src": "中国大陆",
+                "star": "贾冰,左小青,苗圃",
+                "time": "2022-07",
+                "type": 0,
+                "ver": "2D",
+                "vodPlay": false,
+                "wish": 2025,
+                "wishst": 0,
+                "version": ""
+            },
+            {
+                "act": "陈可辛 | 巩俐 黄渤 吴刚",
+                "cat": "剧情",
+                "dir": "陈可辛",
+                "dur": 135,
+                "enm": "Leap",
+                "globalReleased": true,
+                "id": 1217123,
+                "img": "https://p0.pipi.cn/mmdb/d2dad5925372ffddd2281e0703ccb177bf587.jpg?imageMogr2/thumbnail/2500x2500%3E",
+                "movieAlias": "",
+                "movieType": 0,
+                "nm": "夺冠",
+                "onlinePlay": false,
+                "pubDesc": "2021-12-01中国大陆重映",
+                "rt": "2021-12-01",
+                "sc": 9,
+                "show": "",
+                "showStateButton": {
+                    "color": "#F03D37",
+                    "content": "购票",
+                    "onlyPreShow": false
+                },
+                "showst": 3,
+                "src": "中国大陆,中国香港",
+                "star": "巩俐,黄渤,吴刚",
+                "type": 0,
+                "ver": "IMAX 2D/杜比影院 2D",
+                "vodPlay": true,
+                "wish": 513673,
+                "wishst": 0,
+                "version": "v2d imax"
+            }
+        ],
+        "total": 342180,
+        "type": 0
+    },
+    "cinemas": {
+        "list": [
+            {
+                "id": 36917,
+                "nm": "金逸影城（武汉人信汇IMAX店）",
+                "sellPrice": "0",
+                "referencePrice": "0",
+                "addr": "汉阳区龙阳大道58号人信汇商业广场A座4楼",
+                "sell": false,
+                "deal": 0,
+                "allowRefund": 0,
+                "endorse": 0,
+                "snack": 0,
+                "vipDesc": ""
+            },
+            {
+                "id": 9366,
+                "nm": "金逸影城（武汉人信汇IMAX店）",
+                "sellPrice": "19.9",
+                "referencePrice": "0",
+                "addr": "汉阳区龙阳大道58号汉阳人信汇商业广场A座4楼",
+                "sell": true,
+                "deal": 0,
+                "hallType": [
+                    "IMAX厅"
+                ],
+                "allowRefund": 0,
+                "endorse": 1,
+                "snack": 0,
+                "vipDesc": ""
+            }
+        ],
+        "total": 9,
+        "type": 2
+    }
+}

@@ -1,0 +1,22 @@
+<div class="box" id="users-list-box">
+  <div class="box-header">
+    <button class="btn btn-primary btn-lg" id="add-user-btn" data-toggle="modal" data-target="#user-modal">添加</button>
+  </div>
+  <div class="box-body">
+    <table class="table table-bordered">
+      <tr>
+        <th style="width: 10px">#</th>
+        <th>用户名</th>
+        <th style="width: 300px">操作</th>
+      </tr>
+      
+      <tbody id="users-list">
+      </tbody>
+    </table>
+  </div>
+  <!-- /.box-body -->
+  <div class="box-footer clearfix" id="user-page"></div>
+</div>
+<!-- /.box -->
+
+
