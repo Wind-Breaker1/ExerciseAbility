@@ -8,7 +8,7 @@ export default function NewsDraft(props) {
 
     const {username}  = JSON.parse(localStorage.getItem("token"))
     useEffect(() => {
-        axios.get(`/news?author=${username}&auditState=0&_expand=category`).then(res => {
+        axios.get(`http://localhost:5000/news?author=${username}&auditState=0&_expand=category`).then(res => {
             const list = res.data
             setdataSource(list)
         })

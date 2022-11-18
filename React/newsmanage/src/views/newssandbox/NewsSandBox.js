@@ -4,6 +4,7 @@ import Home from '../../views/newssandbox/home/Home';
 import UserList from '../../views/newssandbox/user/UserList';
 import RoleList from '../../views/newssandbox/right/RoleList';
 import RightList from '../../views/newssandbox/right/RightList';
+import NewsDraft from '../newssandbox/newsManage/NewsDraft';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import NoPermission from './noperssion/NoPermission';
 import { Layout } from 'antd';
@@ -29,6 +30,7 @@ export default function Login() {
             <Route path='/user-manage/list' element={<UserList />}></Route>
             <Route path='/right-manage/role/list' element={<RoleList />}></Route>
             <Route path='/right-manage/right/list' element={<RightList />}></Route>
+            <Route path='/news-manage/draft' element={<NewsDraft />}></Route>
             <Route path="/" element={<Navigate to="/home" />} ></Route>
             <Route path="*" element={<NoPermission />} ></Route>
           </Routes>
