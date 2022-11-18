@@ -50,7 +50,6 @@ export default function RightList() {
   }, [])
   const switchMethod = (item) => {
     item.pagepermisson = item.pagepermisson == 1 ? 0 :1;
-    console.log(item)
     setDataSource([...dataSource])
     if (item.grade){
       axios.patch(`http://localhost:5000/rights/${item.id}`,{
@@ -78,7 +77,6 @@ export default function RightList() {
   }else{
       let list = dataSource.filter(data=>data.id===item.rightId)
       list[0].children = list[0].children.filter(data=>data.id!==item.id)
-      console.log(...dataSource);
       setDataSource([...dataSource])
       // axios.delete(`/children/${item.id}`)
   }

@@ -71,6 +71,24 @@
       "region": "亚洲",
       "roleId": 3,
       "id": 8
+    },
+    {
+      "username": "123",
+      "password": "234",
+      "region": "欧洲",
+      "roleId": 2,
+      "roleState": true,
+      "default": false,
+      "id": 9
+    },
+    {
+      "username": "1232323",
+      "password": "234",
+      "region": "欧洲",
+      "roleId": 2,
+      "roleState": true,
+      "default": false,
+      "id": 10
     }
   ],
   "roles": [
@@ -96,15 +114,11 @@
         "/audit-manage",
         "/audit-manage/audit",
         "/audit-manage/list",
-        "/user-manage",
-        "/user-manage/add",
-        "/user-manage/delete",
-        "/user-manage/update",
-        "/user-manage/list",
         "/publish-manage",
         "/publish-manage/unpublished",
         "/publish-manage/published",
-        "/publish-manage/sunset"
+        "/publish-manage/sunset",
+        "/home"
       ]
     },
     {
@@ -131,7 +145,14 @@
         "/publish-manage",
         "/publish-manage/unpublished",
         "/publish-manage/published",
-        "/publish-manage/sunset"
+        "/publish-manage/sunset",
+        "/right-manage",
+        "/right-manage/role/list",
+        "/right-manage/right/list",
+        "/right-manage/role/update",
+        "/right-manage/role/delete",
+        "/right-manage/right/update",
+        "/right-manage/right/delete"
       ]
     },
     {

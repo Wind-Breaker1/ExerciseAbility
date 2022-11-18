@@ -49,7 +49,6 @@ export default function RoleList() {
     setVisible(true);
     setcurrentId(node.id);
     setCurrentRights(node.rights);
-    // console.log('cr',currentRights,node.rights);
   }
   const showConfirm = (item) => {
     confirm({
@@ -66,8 +65,6 @@ export default function RoleList() {
   }
   const handleOk = () => {
     setVisible(false);
-    console.log('111',currentRights);
-    
     setDataSource(dataSource.map(item => {
       if (item.id == currentId) {
         return {
@@ -86,7 +83,6 @@ export default function RoleList() {
   }
   const onCheck = (checkKeys) => {
     setCurrentRights(checkKeys);
-    console.log(currentRights,checkKeys);
   }
   return (
     <div>
